@@ -19,19 +19,6 @@ A modern and responsive Dictionary Web Application built using HTML, CSS, and Ja
 * JavaScript
 * Free Dictionary API
 
-## How to Run
-
-1. Download or clone the repository
-2. Open the project folder
-3. Run `index.html` in browser
-
-## Future Improvements
-
-* Voice search
-* Search history
-* Multiple language support
-* Word of the day feature
-
 ## Author
 
 Kanchan Rawat
