@@ -19,6 +19,3 @@ A modern and responsive Dictionary Web Application built using HTML, CSS, and Ja
 * JavaScript
 * Free Dictionary API
 
-## Author
-
-Kanchan Rawat
