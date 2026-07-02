@@ -1,4 +1,4 @@
-Smart Dictionary App
+Smart Dictionary App (vocafinder)
 
 Developed a modern and responsive Dictionary Web Application using HTML, CSS, JavaScript, and Dictionary API integration. Implemented real-time word search functionality to display meanings, pronunciations, synonyms, and antonyms.
 
